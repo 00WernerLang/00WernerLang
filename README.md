@@ -29,3 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="45" height="45"/>
                           
 </p>
+
+
+<h2>My Github Stats:</h2>
+
+[![Werner's GitHub stats](https://github-readme-stats.vercel.app/api?username=00WernerLang&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00WernerLang)](https://github.com/anuraghazra/github-readme-stats)
