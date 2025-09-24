@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=About%20Me&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=About%20Me&fontSize=30" />
 
 <h2>Tools I use:</h2>
 
