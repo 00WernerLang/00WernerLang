@@ -40,7 +40,7 @@
 
 <h2>My LeetCode Stats:</h2>
 
-https://leetcard.jacoblin.cool/00WernerLang?ext=heatmap
+![]([https://leetcard.jacoblin.cool/lapor?ext=heatmap](https://leetcard.jacoblin.cool/00WernerLang?ext=heatmap))
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
