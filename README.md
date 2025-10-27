@@ -34,12 +34,6 @@
 </p>
 
 
-<h2>My Github Stats:</h2>
-
-| [![Werner's GitHub stats](https://github-readme-stats.vercel.app/api?username=00WernerLang&theme=swift&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00WernerLang&layout=compact&langs_count=5&hide_border=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats) |
-|-------------------------------------------|--------------------------------|
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
